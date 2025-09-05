@@ -4,6 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroZone.unity
+    guid: 68dd998b770f71946a6145c7c7d18608
+  - enabled: 1
+    path: Assets/Scenes/GalerieSpectacles.unity
+    guid: e557574c10ad63441897f9af289b42e7
+  - enabled: 1
+    path: Assets/Scenes/enseignement-art.unity
+    guid: 4d29b71458de55b46ab0e90ac948ad60
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
